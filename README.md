@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/W6iMjZ5.png>
+<img src=MALUTTY.jpg>
 </p>
  </a>
 </p>

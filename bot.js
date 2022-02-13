@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝 Sana Mwol💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝 itz-me-malutty-botz💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -336,7 +336,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ SANA MWOL️💙 ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ itz-me-malutty-botz💙 ~______~*' +
                                     '\n*SANA IS  ERROR🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
